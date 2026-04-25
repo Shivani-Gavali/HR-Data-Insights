@@ -1,4 +1,4 @@
-# HR-Data-Insights
+# HR Metrics
 # Power BI Project
 
 HR Data Insights is an interactive Power BI dashboard built to analyze workforce trends, employee demographics, and attrition patterns.
