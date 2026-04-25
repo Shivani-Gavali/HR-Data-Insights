@@ -60,4 +60,4 @@ It helps HR teams make data-driven decisions to improve retention, employee sati
 • Buttons
 
 # Dashboard Preview:
-![Dashboard Screenshot](HR Metrics.JPG)
+![Dashboard Screenshot](HR_Metrics.JPG)
